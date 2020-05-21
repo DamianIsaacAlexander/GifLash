@@ -32,3 +32,4 @@ are complete a final winner of the game will display and players will be redirec
 
 ## Deployment 
 
+https://murmuring-island-19258.herokuapp.com/auth/login
