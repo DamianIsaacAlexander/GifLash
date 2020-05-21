@@ -1,6 +1,6 @@
 # GifLash
 
-A browser based game that allows users to register, and host or join lobbies. The game has a similar concept to Quiplash or Cards Against Humanity. 
+A browser based game that allows users to register, host, join lobbies, and chat. The game has a similar concept to Quiplash or Cards Against Humanity. 
 
 ### Game Rules
 
