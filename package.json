@@ -1,0 +1,38 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "Gif-Lash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "fix": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFarrier/Project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFarrier/Project-2/issues"
+  },
+  "homepage": "https://github.com/TheFarrier/Project-2#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "bcrypt": "4.0.1",
+    "express": "^4.17.1",
+    "express-handlebars": "4.0.4",
+    "express-session": "1.17.1",
+    "handlebars": "4.7.6",
+    "mysql2": "^2.1.0",
+    "passport": "0.4.1",
+    "passport-local": "1.0.0",
+    "sequelize": "^5.21.7",
+    "socket.io": "2.3.0"
+  }
+}
